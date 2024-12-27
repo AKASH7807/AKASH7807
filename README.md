@@ -48,7 +48,7 @@ Here are some of my notable projects:
 <img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="https://img.icons8.com/?size=96&id=54087&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
-<img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=4PiNHtUJVbLs&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="https://img.icons8.com/?size=100&id=39855&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
