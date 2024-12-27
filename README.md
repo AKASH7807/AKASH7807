@@ -43,7 +43,7 @@ Here are some of my notable projects:
 
 # Programming Languages I Use
 
-<img src="https://e7.pngegg.com/pngimages/410/100/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
