@@ -41,45 +41,17 @@ Here are some of my notable projects:
 - [Project 4](https://akash7807.github.io/car-shop/) - Rental Cars With Dynamic Layout and Color.  
 
 
-# Programming Languages I Use  
+# Programming Languages I Use
 
-<div style="display:flex; flex-direction:column; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>  
-    <div>JavaScript</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=96&id=7gdY5qNXaKC0&format=png" alt="Python" width="50" style="margin: 5px;"/>  
-    <div>Python</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="Java" width="50" style="margin: 5px;"/>  
-    <div>Java</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=96&id=54087&format=png" alt="C++" width="50" style="margin: 5px;"/>  
-    <div>C++</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="React" width="50" style="margin: 5px;"/>  
-    <div>React</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" alt="Tailwind CSS" width="50" style="margin: 5px;"/>  
-    <div>Tailwind CSS</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="Node.js" width="50" style="margin: 5px;"/>  
-    <div>Node.js</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" alt="CSS" width="50" style="margin: 5px;"/>  
-    <div>CSS</div>  
-</div>  
-<div style="display: inline-block; text-align: center; margin: 10px;">  
-    <img src="https://img.icons8.com/?size=100&id=39855&format=png" alt="HTML" width="50" style="margin: 5px;"/>  
-    <div>HTML</div>  
-</div>
-
+<img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=7gdY5qNXaKC0&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=54087&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=PndQWK6M1Hjo&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=AZOZNnY73haj&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=100&id=39855&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 
 ---  
 
