@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and responsi
 - **Databases**: MongoDB, MySQL, PostgreSQL  
 - **DevOps**: Docker, CI/CD, GitHub Actions  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akash7807/)  
 
 ---  
 
