@@ -44,8 +44,10 @@ Here are some of my notable projects:
 # Programming Languages I Use
 
 <img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
-<img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
-<img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=7gdY5qNXaKC0&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=108784&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=96&id=54087&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
+<img src="https://img.icons8.com/?size=160&id=asWSSTBrDlTW&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
 <img src="" alt="JavaScript" width="50" style="margin: 5px;"/>
