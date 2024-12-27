@@ -40,6 +40,10 @@ Here are some of my notable projects:
 - [Project 3](https://akash7807.github.io/burger/) - Modern Burger Shop With Animation Loading.  
 - [Project 4](https://akash7807.github.io/car-shop/) - Rental Cars With Dynamic Layout and Color.  
 
+
+# Programming Languages I Use
+
+<img src="https://w7.pngwing.com/pngs/290/579/png-transparent-html-html-logo-html-5-html-five-logo-html-5-logo-programming-langugae-3d-icon-thumbnail.png" alt="JavaScript" width="50" style="margin: 5px;"/>
 ---  
 
 ### ⚡ Fun Fact  
