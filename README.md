@@ -43,7 +43,7 @@ Here are some of my notable projects:
 
 # Programming Languages I Use  
 
-<div style="display: inline-block; text-align: center; margin: 10px;">  
+<div style="display:flex; flex-direction:column; text-align: center; margin: 10px;">  
     <img src="https://img.icons8.com/?size=96&id=20909&format=png" alt="JavaScript" width="50" style="margin: 5px;"/>  
     <div>JavaScript</div>  
 </div>  
