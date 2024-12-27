@@ -35,9 +35,10 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and responsi
 
 ### 🚀 Projects  
 Here are some of my notable projects:  
-- [Project 1](https://github.com/yourusername/project1) - Brief description of what it does.  
-- [Project 2](https://github.com/yourusername/project2) - Brief description of what it does.  
-- [Project 3](https://github.com/yourusername/project3) - Brief description of what it does.  
+- [Project 1](https://akash7807.github.io/youtube/) - Brief description of what it does.  
+- [Project 2](https://akash7807.github.io/gemini-clone/) - Brief description of what it does.  
+- [Project 3](https://akash7807.github.io/burger/) - Brief description of what it does.  
+- [Project 4](https://akash7807.github.io/car-shop/) - Brief description of what it does.  
 
 ---  
 
