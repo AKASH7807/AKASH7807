@@ -35,10 +35,10 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and responsi
 
 ### 🚀 Projects  
 Here are some of my notable projects:  
-- [Project 1](https://akash7807.github.io/youtube/) - Brief description of what it does.  
-- [Project 2](https://akash7807.github.io/gemini-clone/) - Brief description of what it does.  
-- [Project 3](https://akash7807.github.io/burger/) - Brief description of what it does.  
-- [Project 4](https://akash7807.github.io/car-shop/) - Brief description of what it does.  
+- [Project 1](https://akash7807.github.io/youtube/) - Youtube Clone with Google API.  
+- [Project 2](https://akash7807.github.io/gemini-clone/) - AI Chatting Application like Gemini.  
+- [Project 3](https://akash7807.github.io/burger/) - Modern Burger Shop With Animation Loading.  
+- [Project 4](https://akash7807.github.io/car-shop/) - Rental Cars With Dynamic Layout and Color.  
 
 ---  
 
@@ -48,7 +48,7 @@ I love to explore new technologies and challenge myself with personal projects d
 ---  
 
 ### 📫 Get in Touch  
-Feel free to reach out to me via [Email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)!  
+Feel free to reach out to me via [Email](itzmeaktech@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/akash7807) 
 
 ---  
 
