@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm passionate about creating dynamic and responsi
 
 ### 🚀 Projects  
 Here are some of my notable projects:  
+- [Project 1](https://find-jobs-web.vercel.app/) - Job Portal Using MERN stack with Vercel Deploy.  
 - [Project 1](https://akash7807.github.io/youtube/) - Youtube Clone with Google API.  
 - [Project 2](https://akash7807.github.io/gemini-clone/) - AI Chatting Application like Gemini.  
 - [Project 3](https://akash7807.github.io/burger/) - Modern Burger Shop With Animation Loading.  
