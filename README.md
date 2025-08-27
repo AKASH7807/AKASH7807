@@ -1,8 +1,8 @@
 <!-- Banner -->
 <p align="center" style="margin:0;">
-  <img src="https://raw.githubusercontent.com/AKASH7807/AKASH7807/main/assets/banner-modern.png" 
+  <img src="https://raw.githubusercontent.com/AKASH7807/AKASH7807/main/assets/banner.png" 
        alt="Akash M | Full Stack Developer" 
-       style="max-width:100%; height:auto;" />
+       style="max-width:100%; height:auto; border-radius:10px;" />
 </p>
 
 <!-- Name (gradient SVG) -->
