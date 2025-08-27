@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="6" viewBox="0 0 320 6" role="img" aria-label="">
+  <defs>
+    <linearGradient id="hrg" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#3BB8DB"/>
+      <stop offset="100%" stop-color="#155DFC"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="320" height="6" rx="3" fill="url(#hrg)"/>
+</svg>
