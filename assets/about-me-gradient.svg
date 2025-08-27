@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="About Me Content - Dark">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700&display=swap');
+    .text { font-family: 'Space Mono', monospace; fill: #FFFFFF; font-size:22px; }
+    .bold { font-weight:700; }
+  </style>
+  <rect width="100%" height="100%" fill="none"/>
+  <text x="50%" y="70" text-anchor="middle" class="text">
+    <tspan x="50%" dy="0">I'm a <tspan class="bold">passionate Full Stack Developer</tspan></tspan>
+    <tspan x="50%" dy="40">with expertise in the <tspan class="bold">MERN stack</tspan>,</tspan>
+    <tspan x="50%" dy="40">focused on building <tspan class="bold">modern, responsive</tspan></tspan>
+    <tspan x="50%" dy="40">web applications.</tspan>
+    <tspan x="50%" dy="40">I’ve completed <tspan class="bold">10+ real-world projects</tspan></tspan>
+    <tspan x="50%" dy="40">and published <tspan class="bold">70+ tech blogs</tspan> to share knowledge.</tspan>
+    <tspan x="50%" dy="40">With a strong <tspan class="bold">problem-solving mindset</tspan></tspan>
+    <tspan x="50%" dy="40">and a habit of <tspan class="bold">continuous learning</tspan>,</tspan>
+    <tspan x="50%" dy="40">I aim to deliver <tspan class="bold">scalable, secure, and</tspan></tspan>
+    <tspan x="50%" dy="40"><tspan class="bold">high-performance solutions</tspan> that create real impact.</tspan>
+  </text>
+</svg>
